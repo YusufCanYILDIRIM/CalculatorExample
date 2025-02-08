@@ -14,7 +14,6 @@
         android:background="#EEEEEE"
         android:gravity="end"
         android:padding="16dp"
-        android:text="0"
         android:textColor="#000000"
         android:textSize="32sp" />
 
@@ -28,58 +27,72 @@
 
         <!-- Rakamlar -->
         <Button
+            android:id="@+id/btn7"
             android:onClick="onDigitClick"
             android:text="7" />
 
         <Button
+            android:id="@+id/btn8"
             android:onClick="onDigitClick"
             android:text="8" />
 
         <Button
+            android:id="@+id/btn9"
             android:onClick="onDigitClick"
             android:text="9" />
 
         <Button
+            android:id="@+id/bolme"
             android:onClick="onOperatorClick"
             android:text="/" />
 
         <Button
+            android:id="@+id/btn4"
             android:onClick="onDigitClick"
             android:text="4" />
 
         <Button
+            android:id="@+id/btn5"
             android:onClick="onDigitClick"
             android:text="5" />
 
         <Button
+            android:id="@+id/btn6"
             android:onClick="onDigitClick"
             android:text="6" />
 
         <Button
+            android:id="@+id/carpma"
             android:onClick="onOperatorClick"
             android:text="*" />
 
         <Button
+            android:id="@+id/btn1"
             android:onClick="onDigitClick"
             android:text="1" />
 
         <Button
+            android:id="@+id/btn2"
             android:onClick="onDigitClick"
             android:text="2" />
 
         <Button
+            android:id="@+id/btn3"
             android:onClick="onDigitClick"
             android:text="3" />
 
         <Button
+            android:id="@+id/cikarma"
             android:onClick="onOperatorClick"
             android:text="-" />
 
         <Button
+            android:id="@+id/btn0"
             android:onClick="onDigitClick"
             android:text="0" />
 
         <Button
+            android:id="@+id/clear"
             android:onClick="onClearClick"
             android:text="C" />
 
@@ -89,6 +102,7 @@
             android:text="=" />
 
         <Button
+            android:id="@+id/toplama"
             android:onClick="onOperatorClick"
             android:text="+" />
     </GridLayout>

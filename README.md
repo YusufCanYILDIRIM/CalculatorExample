@@ -17,6 +17,7 @@ Bu proje, **Android Studio** kullanılarak geliştirilen basit bir **hesap makin
 
 ## 📷 Ekran Görüntüleri
 > ![calculatorexample](https://github.com/user-attachments/assets/21a4721e-1bad-484d-b3c5-f0f0a85fa658)
+> [CalculatorExaple.webm](https://github.com/user-attachments/assets/eee0366f-f7f0-45d8-a6d4-3699618a5dd1)
 
 ## 📥 Kurulum ve Çalıştırma
 Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
